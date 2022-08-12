@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://segunzoe.github.io/csb-jxh0vm/static/js/main.f9fc8fa3.chunk.js",
+    "main.js.map": "https://segunzoe.github.io/csb-jxh0vm/static/js/main.f9fc8fa3.chunk.js.map",
+    "runtime-main.js": "https://segunzoe.github.io/csb-jxh0vm/static/js/runtime-main.1f83b118.js",
+    "runtime-main.js.map": "https://segunzoe.github.io/csb-jxh0vm/static/js/runtime-main.1f83b118.js.map",
+    "static/js/2.5580c59e.chunk.js": "https://segunzoe.github.io/csb-jxh0vm/static/js/2.5580c59e.chunk.js",
+    "static/js/2.5580c59e.chunk.js.map": "https://segunzoe.github.io/csb-jxh0vm/static/js/2.5580c59e.chunk.js.map",
+    "index.html": "https://segunzoe.github.io/csb-jxh0vm/index.html",
+    "static/js/2.5580c59e.chunk.js.LICENSE.txt": "https://segunzoe.github.io/csb-jxh0vm/static/js/2.5580c59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f83b118.js",
+    "static/js/2.5580c59e.chunk.js",
+    "static/js/main.f9fc8fa3.chunk.js"
+  ]
+}
